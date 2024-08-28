@@ -1,8 +1,42 @@
-# React + Vite
+# Login Screen Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive login screen built with React and Vite, utilizing Tailwind CSS for styling. It features username and password fields, a "Remember Me" checkbox, form validation, and social login options.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design
+- Username and password fields
+- "Remember Me" checkbox
+- Form validation
+- Social login buttons (Google and Facebook)
+- "Forgot Password?" link
+
+## Technologies Used
+
+- React
+- Vite
+- Tailwind CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash 
+   https://github.com/thedarkarchitect/LoginScreen.git 
+   cd loginScreen
+   ```
+
+2. Install Dependencies
+   ```bash 
+   npm install
+   ```
+3. Run the development server
+   ```bash 
+   npm run dev
+   ```
